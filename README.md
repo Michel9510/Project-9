@@ -1,8 +1,8 @@
-#Welcome to Games-API!!
+# Welcome to Games-API!!
 
 This API include several games that where all time favorited in the gaming world.
 
-#API Data
+# API Data
 {
     title: CharField()
     genre: CharField()
@@ -10,7 +10,7 @@ This API include several games that where all time favorited in the gaming world
     description: CharField()
 }  
 
-#Technology Use
+# Technology Use
 
 Peewee
 Python
